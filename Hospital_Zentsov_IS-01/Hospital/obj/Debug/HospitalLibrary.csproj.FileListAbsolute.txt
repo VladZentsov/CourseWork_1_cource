@@ -1,0 +1,14 @@
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital\Hospital\obj\Debug\HospitalLibrary.csprojAssemblyReference.cache
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital\Hospital\obj\Debug\HospitalLibrary.csproj.CoreCompileInputs.cache
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital_Zentsov_IS-01\Hospital\bin\Debug\Hospital.exe.config
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital_Zentsov_IS-01\Hospital\bin\Debug\Hospital.exe
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital_Zentsov_IS-01\Hospital\bin\Debug\Hospital.pdb
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital_Zentsov_IS-01\Hospital\obj\Debug\HospitalLibrary.csprojAssemblyReference.cache
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital_Zentsov_IS-01\Hospital\obj\Debug\HospitalLibrary.csproj.CoreCompileInputs.cache
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital_Zentsov_IS-01\Hospital\obj\Debug\Hospital.exe
+C:\КПИ\kpi_prog_2_sem\Сourse_work_v2\Hospital_Zentsov_IS-01\Hospital\obj\Debug\Hospital.pdb

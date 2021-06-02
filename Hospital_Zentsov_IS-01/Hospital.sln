@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalLibrary", "Hospital\HospitalLibrary.csproj", "{186AF639-9B06-45FD-9D5A-E18519E11097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "LoginForm\Forms.csproj", "{6F8090F7-FF93-45F9-B55D-DB9A391175C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186AF639-9B06-45FD-9D5A-E18519E11097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186AF639-9B06-45FD-9D5A-E18519E11097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186AF639-9B06-45FD-9D5A-E18519E11097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186AF639-9B06-45FD-9D5A-E18519E11097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8090F7-FF93-45F9-B55D-DB9A391175C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8090F7-FF93-45F9-B55D-DB9A391175C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8090F7-FF93-45F9-B55D-DB9A391175C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8090F7-FF93-45F9-B55D-DB9A391175C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1678830-2206-49F1-8524-6B3A5EC1A527}
+	EndGlobalSection
+EndGlobal

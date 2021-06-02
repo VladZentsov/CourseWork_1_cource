@@ -1,0 +1,40 @@
+0
+Erik Watson male
+1990 5 21
+49143 Savkina 1 28
+ErikWatson p45wroud
+1
+Henry Clark male
+1982 3 14
+49614 Mitinskiy 106 307
+HenryClark ctc2e00a
+2
+Robert Peters male
+1975 5 17
+49024 Sosinskaya 4 29
+RobertPeters zwiimx0i
+3
+Roger Manning male
+1994 9 23
+49543 Mayovka 160 80
+RogerManning 443uce2v
+4
+Alexandra Hines female
+1983 10 3
+49671 Samarkandskiy 3 121
+AlexandraHines h9r1uy6m
+5
+Magdalen Horton female
+1987 4 2
+49542 Derptskiy 5 89
+MagdalenHorton jt6t59me
+6
+Naomi Williamson female
+1979 8 19
+49021 Yeresninskaya 9 91
+NaomiWilliamson f37kvq01
+7
+Brice Sims male
+1991 4 3
+49721 Gesstroyevskiy 2 103
+BriceSims e4cfu148
